@@ -1,6 +1,8 @@
 git empty dir ko track nhi karta isliye unke andr '.gitkeep' file bana dete h tb vo track krta h
 
 command - git switch -c branch1 ---> new branch bana ke uske andr chli jati h
+          
+          git branch -M <new name> ---> rename a branch 
 
 -----------------------------------------------------------------------------------------
 
