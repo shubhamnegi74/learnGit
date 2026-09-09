@@ -1,1 +1,6 @@
 git empty dir ko track nhi karta isliye unke andr '.gitkeep' file bana dete h tb vo track krta h
+
+stash in git : 
+1. git stash -> put in a stash
+2. git stash pop -> remove from stash 
+3. git stash apply -> stash m bhi rehta h aur apply bhi ho jata ho
