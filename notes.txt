@@ -16,6 +16,14 @@ Eh - git config --list
 
 
 --------------------------------------------------------------------------------------------------
+
+git remote add origin <repo link>
+
+git remote -v ===> origin check krne k liye ki konsa h 
+
+git remote remove origin ==> origin ko remove krne k liye
+
+--------------------------------------------------------------------------------------------------------------
 git push -u origin main: 
 'origin' github ki repo ka name hi hai, 'myRepository' na likh ke usko default easy banane k liye origin likh diya
 main - 'main' branch
