@@ -1,6 +1,21 @@
 git empty dir ko track nhi karta isliye unke andr '.gitkeep' file bana dete h tb vo track krta h
 
-command - git switch -c branch1 ---> new branch bana ke uske andr chli jati hcl
+command - git switch -c branch1 ---> new branch bana ke uske andr chli jati h
+
+
+
+git config -----> git config kind off git ka ek control panel jesa h
+Eh - git config --list
+    git config --global user.name
+    git config --global user.email
+
+    git config --global init.defaultBranch main -----> 'main' ko default branch banata h
+
+    global matlab locally jitni bhi git repo hongi sbke liye same
+    without global - only for current local repo
+
+
+
 
 stash in git : 
 1. git stash -> put in a stash
