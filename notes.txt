@@ -4,3 +4,8 @@ stash in git :
 1. git stash -> put in a stash
 2. git stash pop -> remove from stash 
 3. git stash apply -> stash m bhi rehta h aur apply bhi ho jata ho
+
+tags in git: -> kisi ek perticular commit ko tag dene ke liye
+
+types - 1. Annotated tags -> Eg -> git tag -a v1.0 -m "Annotated tag lag gya"
+        2. Lightweighted tags -> Eg -> git tag v1.0
