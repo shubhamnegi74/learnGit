@@ -1,5 +1,7 @@
 git empty dir ko track nhi karta isliye unke andr '.gitkeep' file bana dete h tb vo track krta h
 
+command - git switch -c branch1 ---> new branch bana ke uske andr chli jati hcl
+
 stash in git : 
 1. git stash -> put in a stash
 2. git stash pop -> remove from stash 
